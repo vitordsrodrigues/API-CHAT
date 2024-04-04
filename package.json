@@ -4,7 +4,7 @@
   "description": "��#\u0000 \u0000A\u0000P\u0000I\u0000-\u0000C\u0000H\u0000A\u0000T\u0000\r\u0000 \u0000",
   "main": "server.js",
   "engines": {
-    "node":"14.x"
+    "node":"20.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
